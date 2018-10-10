@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" target-language="en" datatype="plaintext" original="messages" date="2015-07-22T12:53:24Z">
+        <header>
+            <generator>Weblate</generator>
+        </header>
+        <body>
+        <trans-unit id="10" approved="yes">
+            <source xml:space="preserve">hello</source>
+            <target xml:space="preserve">世界你好！
+</target>
+        </trans-unit>
+        <trans-unit id="11" approved="yes">
+            <source xml:space="preserve">orangutan</source>
+            <target xml:space="preserve">Orangutan 有 %d 个香蕉.
+</target>
+        </trans-unit>
+        <trans-unit id="12" approved="yes">
+            <source xml:space="preserve">try</source>
+            <target xml:space="preserve">在 https://demo.weblate.org/ 试用Weblate!
+</target>
+        </trans-unit>
+        <trans-unit id="13" approved="yes">
+            <source xml:space="preserve">thanks</source>
+            <target xml:space="preserve">感谢使用 Weblate.</target>
+        </trans-unit>
+        </body>
+    </file>
+</xliff>
